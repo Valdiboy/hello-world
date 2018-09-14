@@ -1,6 +1,8 @@
 # hello-world
 I am a full beginner at programming and I want to learn the basics of Python. Right now I have issues with launching Python on Powershell (Windows 10 version).
 If you're reading this, well thanks because that means you're only one step away from helping me solve my problem. Basically when I type "python" in Powershell I get the following message:
+
+
 python : Python 3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 08:06:12) [MSC v.1900 64 bit (AMD64)] on win32
 Au caractère Ligne:1 : 1
 + python
